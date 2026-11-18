@@ -21,7 +21,7 @@ A responsive React web application that displays NASA's Astronomy Picture of the
 - **Icons**: React Icons
 - **API**: NASA APOD API
 
-## Project Structure
+## Folder Structure
 
 ```
 src/
